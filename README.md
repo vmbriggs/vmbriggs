@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @vmbriggs
-- 👀 I’m interested in geospatial data science, answering environmental questions with geospatial information technologies, and more!
+- GIS+ Remote sensing + vegetation mapping + forestry + ag
+- Grad student and data engineer
 
 
 <!---
